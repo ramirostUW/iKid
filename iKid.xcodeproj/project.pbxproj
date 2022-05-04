@@ -16,6 +16,8 @@
 		DB9121EF282251CA001639D8 /* iKidTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB9121EE282251CA001639D8 /* iKidTests.swift */; };
 		DB9121F9282251CA001639D8 /* iKidUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB9121F8282251CA001639D8 /* iKidUITests.swift */; };
 		DB9121FB282251CA001639D8 /* iKidUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB9121FA282251CA001639D8 /* iKidUITestsLaunchTests.swift */; };
+		DB9122082822555B001639D8 /* PunchlineVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB9122072822555B001639D8 /* PunchlineVC.swift */; };
+		DB91220A28225631001639D8 /* JokeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB91220928225631001639D8 /* JokeVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		DB9121F4282251CA001639D8 /* iKidUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iKidUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DB9121F8282251CA001639D8 /* iKidUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iKidUITests.swift; sourceTree = "<group>"; };
 		DB9121FA282251CA001639D8 /* iKidUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iKidUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DB9122072822555B001639D8 /* PunchlineVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PunchlineVC.swift; sourceTree = "<group>"; };
+		DB91220928225631001639D8 /* JokeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JokeVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				DB9121E0282251CA001639D8 /* Assets.xcassets */,
 				DB9121E2282251CA001639D8 /* LaunchScreen.storyboard */,
 				DB9121E5282251CA001639D8 /* Info.plist */,
+				DB9122072822555B001639D8 /* PunchlineVC.swift */,
+				DB91220928225631001639D8 /* JokeVC.swift */,
 			);
 			path = iKid;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 				DB9121DC282251C8001639D8 /* ViewController.swift in Sources */,
 				DB9121D8282251C8001639D8 /* AppDelegate.swift in Sources */,
 				DB9121DA282251C8001639D8 /* SceneDelegate.swift in Sources */,
+				DB91220A28225631001639D8 /* JokeVC.swift in Sources */,
+				DB9122082822555B001639D8 /* PunchlineVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
